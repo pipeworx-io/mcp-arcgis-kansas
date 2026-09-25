@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-kansas",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Kansas State GIS — Kansas open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d96adc17bfd19b8832f75826cf95550a8b7406ec87d8de11485d3ca5683b9b4f",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-c9aee68fe466d5496a0551b21f316987e9e9605c9eb1abf6a37211a4d8939673",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
